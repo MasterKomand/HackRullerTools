@@ -1,4 +1,4 @@
-/#!/usr/bin/bash
+#!/usr/bin/bash
 pathFile="HackRullerTools"
 cd ~/../usr/bin 
 #Первая команда
